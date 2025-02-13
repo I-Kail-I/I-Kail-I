@@ -31,10 +31,10 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.youtube.com/" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/I-Kail-I" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <br/><br/>
 </div>
@@ -44,7 +44,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,vscode,github,figma,git,htmx" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cs,go,lua,tensorflow,discordjs,bun,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,replit,azure,aws,cloudflare,bots" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,azure,aws,cloudflare" /><br>
 <br/><br/><br/>
 </div>
 
@@ -53,6 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=I-Kail-I&show_icons=true&theme=dark" style="display: block; margin: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Kail-I&layout=compact&theme=dark" style="display: block; margin: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-Kail-I&theme=dark&hide_border=false" style="display: block; margin: auto;">
 <br/><br/>
 </div>
 
