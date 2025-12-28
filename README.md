@@ -1,69 +1,90 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=This%20Is%20Mikail.;%20Seseorang%20Yang%20Ingin%20Menjadi%20Programmer%20Sejati%20&font=Righteous&center=true&width=900&height=45&color=FFFFFF&vCenter=true&pause=850&size=35" />
-  </a>
-</p>
+---
+
+Mikail
+
+Full-Stack Developer | AI & Machine Learning Enthusiast
+
+Makassar, Indonesia
+
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+---
+
+🚀 About Me
+
+I'm a passionate developer with experience in full-stack web development, machine learning, and IoT projects. I enjoy building practical solutions that solve real-world problems while continuously expanding my technical skills.
+
+Technical Focus:
+
+· Full-stack web development (React, Node.js, Next.js)
+· Machine Learning & Computer Vision
+· Backend systems & API development
+· Embedded systems & IoT
+
+---
+
+🛠️ Technologies & Tools
+
+Frontend & UI
+
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+
+Backend & Databases
+
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+
+Tools & Platforms
+
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+
+Machine Learning & Data Science
+
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+
+Currently Exploring
+
+· Go (Golang) for backend systems
+· Cloud infrastructure and DevOps
+· Advanced ML model deployment
+
+---
+
+📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/I-Kail-I?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/I-Kail-I?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/I-Kail-I?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/I-Kail-I?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=I-Kail-I&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-Kail-I&theme=github_dark&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Kail-I&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>---
 
-<br/>
+📫 Let's Connect
 
-<h2 align="center">📌 About Me 📌</h2>
+I'm always open to discussing technology, collaboration opportunities, or interesting projects. Feel free to reach out:
 
-<div>
-  <p><strong>Manusia dari Indonesia 🇮🇩</strong></p>
-  <p>🗓️ <strong>Coding sejak 2024</strong></p>
-  <p>📌 <strong>Tinggal di Indonesia, Makassar</strong></p>
-  <p>💥 <strong>Suka menjelajahi hal baru </strong></p>
-  <p>✨ <strong>Ingin menjadi Batman</strong></p>
-  <br/><br/>
-</div>
+· Email: dapicode@gmail.com
+· Location: Makassar, Indonesia
+· Availability: Open to freelance opportunities and collaborations
 
-<h2 align="center">🌐 Sosial Media 🌐</h2>
-<div align="center"> 
-  <a href="mailto:dapicode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/I-Kail-I" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <br/><br/>
-</div>
+---
 
-<h2 align="center">⚒️ Bahasa & Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,vscode,github,figma,git,htmx" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cs,go,lua,tensorflow,discordjs,bun,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,azure,aws,cloudflare" /><br>
-<br/><br/><br/>
-</div>
+Last Updated: December 2024
 
-<h2 align="center">📊 My Stats 📊</h2>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-Kail-I&show_icons=true&theme=dark" style="display: block; margin: auto;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-Kail-I&theme=dark&hide_border=false" style="display: block; margin: auto;">
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-Kail-I&layout=compact&theme=dark" style="display: block; margin: auto;">
-<br/>
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-<p align="center">
-  <img src="https://github.com/I-Kail-I/I-Kail-I/blob/output/github-snake-dark.svg" />
-</p>
-  
-  <br/><br/>
-</div> 
-<br/>
+---
