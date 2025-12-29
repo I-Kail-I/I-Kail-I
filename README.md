@@ -35,7 +35,7 @@ I'm a passionate full-stack developer currently studying at **SMK Telkom Makassa
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Kail-I&hide=contribs,prs)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-Kail-I)](https://git.io/streak-stats)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316i2bgbjfkpholib4deggurqlau">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316i2bgbjfkpholib4deggurqlau" alt="Data Card for Spotify">
