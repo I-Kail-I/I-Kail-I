@@ -35,7 +35,8 @@ I'm a passionate full-stack developer currently studying at **SMK Telkom Makassa
 
 ## GitHub Stats
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=I-Kail-I)](https://github.com/I-Kail-I/github-contribution-stats/)
+[![I-Kail-I GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Kail-I)](https://github.com/I-Kail-I/github-readme-stats)
+
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316i2bgbjfkpholib4deggurqlau">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316i2bgbjfkpholib4deggurqlau" alt="Data Card for Spotify">
