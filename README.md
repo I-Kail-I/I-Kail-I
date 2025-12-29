@@ -35,17 +35,7 @@ I'm a passionate full-stack developer currently studying at **SMK Telkom Makassa
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Kail-I&theme=dracula)
-
-[![wakatime stats](https://github-readme-wakatime-stats.vercel.app/api?username=I-Kail-I&theme=dark)](https://wakatime.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Kail-I&theme=dark)](https://github.com/I-Kail-I)
-
 ![Metrics](https://metrics.lecoq.io/I-Kail-I?template=classic&base.metadata=0&theme=dark)
-
-[![GitHub Stats Card](https://github-stats-alpha.vercel.app/api?username=I-Kail-I&cc=000&tc=fff&ic=fff&bc=fff)](https://github-stats-alpha.vercel.app/api?username=I-Kail-I&cc=000&tc=fff&ic=fff&bc=fff)
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=I-Kail-I&theme=dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=316i2bgbjfkpholib4deggurqlau">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=316i2bgbjfkpholib4deggurqlau" alt="Data Card for Spotify">
