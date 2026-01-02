@@ -32,7 +32,3 @@ I'm a passionate full-stack developer currently studying at **SMK Telkom Makassa
 ![Composer](https://img.shields.io/badge/-Composer-black?logo=composer&style=social)&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=social)&nbsp;&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-black?logo=json&style=social)
-
-## GitHub Stats
-
-![Metrics](https://metrics.lecoq.io/I-Kail-I?template=classic&base.metadata=0&theme=dark)
