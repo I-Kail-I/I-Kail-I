@@ -31,4 +31,5 @@ I'm a passionate full-stack developer currently studying at **SMK Telkom Makassa
 ![npm](https://img.shields.io/badge/-npm-black?logo=npm&style=social)&nbsp;&nbsp;
 ![Composer](https://img.shields.io/badge/-Composer-black?logo=composer&style=social)&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=social)&nbsp;&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-black?logo=json&style=social)
+![JSON](https://img.shields.io/badge/-JSON-black?logo=json&style=social)&nbsp;&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-black?logo=expo&style=social)
