@@ -1,12 +1,13 @@
 # Hi there 👋, I'm [Mikail](https://github.com/I-Kail-I)! 
 
-I'm a passionate full-stack developer currently studying at **SMK Telkom Makassar**. I love building web applications and exploring modern development technologies.
+I'm a passionate full-stack and DevOps-focused developer currently studying at **SMK Telkom Makassar**. I love building scalable web applications, streamlining deployment workflows, and exploring modern cloud technologies.
 
 ## About Me
 
-- 💻 Full-stack web developer with expertise in frontend and backend technologies
-- 🌱 Currently learning and growing my skills in web development
-- 💬 Happy to discuss tech, development practices, and web technologies
+- 💻 Full-stack web developer with expertise in frontend, backend, and cloud technologies
+- ⚙️ Passionate about DevOps, CI/CD automation, and containerized environments
+- 🌱 Currently learning and growing my skills in automated workflows and cloud infrastructure
+- 💬 Happy to discuss tech, development practices, and modern DevOps tools
 - 😄 Pronouns: He/Him
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mikail-arianos-30a268356)
 
@@ -26,7 +27,12 @@ I'm a passionate full-stack developer currently studying at **SMK Telkom Makassa
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?logo=githubactions&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonwebservices&style=social)&nbsp;&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
+![Caddy](https://img.shields.io/badge/-Caddy-black?logo=caddy&style=social)&nbsp;&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&style=social)&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&style=social)&nbsp;&nbsp;
 ![npm](https://img.shields.io/badge/-npm-black?logo=npm&style=social)&nbsp;&nbsp;
