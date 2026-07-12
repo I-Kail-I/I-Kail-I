@@ -19,6 +19,8 @@ I'm a passionate full-stack and DevOps-focused developer currently studying at *
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=social)&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
+![Express](https://img.shields.io/badge/-Express-black?logo=express&style=social)&nbsp;&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-black?logo=nestjs&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?logo=tailwindcss&style=social)&nbsp;&nbsp;
@@ -39,4 +41,6 @@ I'm a passionate full-stack and DevOps-focused developer currently studying at *
 ![Composer](https://img.shields.io/badge/-Composer-black?logo=composer&style=social)&nbsp;&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman&style=social)&nbsp;&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-black?logo=json&style=social)&nbsp;&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-black?logo=expo&style=social)
+![Expo](https://img.shields.io/badge/-Expo-black?logo=expo&style=social)&nbsp;&nbsp;
+![Portainer](https://img.shields.io/badge/-Portainer-black?logo=portainer&style=social)&nbsp;&nbsp;
+![Dokploy](https://img.shields.io/badge/-Dokploy-black?logo=dokploy&style=social)&nbsp;&nbsp;
