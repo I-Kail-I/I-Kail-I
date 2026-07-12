@@ -6,7 +6,6 @@ I'm a passionate full-stack and DevOps-focused developer currently studying at *
 
 - 💻 Full-stack web developer with expertise in frontend, backend, and cloud technologies
 - ⚙️ Passionate about DevOps, CI/CD automation, and containerized environments
-- 🌱 Currently learning and growing my skills in automated workflows and cloud infrastructure
 - 💬 Happy to discuss tech, development practices, and modern DevOps tools
 - 😄 Pronouns: He/Him
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mikail-arianos-30a268356)
