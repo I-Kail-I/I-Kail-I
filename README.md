@@ -1,6 +1,6 @@
 # Hi there 👋, I'm [Mikail](https://github.com/I-Kail-I)! 
 
-I'm a passionate full-stack and DevOps-focused developer currently studying at **SMK Telkom Makassar**. I love building scalable web applications, streamlining deployment workflows, and exploring modern cloud technologies.
+I'm a full-stack and DevOps-focused developer currently studying at **SMK Telkom Makassar**. I love building scalable web applications, streamlining deployment workflows, and exploring modern cloud technologies.
 
 ## About Me
 
@@ -33,5 +33,4 @@ I'm a passionate full-stack and DevOps-focused developer currently studying at *
 ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonwebservices&style=social)&nbsp;&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
 ![Caddy](https://img.shields.io/badge/-Caddy-black?logo=caddy&style=social)
-![Portainer](https://img.shields.io/badge/-Portainer-black?logo=portainer&style=social)&nbsp;&nbsp;
 ![Dokploy](https://img.shields.io/badge/-Dokploy-black?logo=dokploy&style=social)&nbsp;&nbsp;
