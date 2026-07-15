@@ -33,4 +33,4 @@ I'm a full-stack and DevOps-focused developer currently studying at **SMK Telkom
 ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonwebservices&style=social)&nbsp;&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
 ![Caddy](https://img.shields.io/badge/-Caddy-black?logo=caddy&style=social)
-![Dokploy](https://img.shields.io/badge/-Dokploy-black?logo=dokploy&style=social)&nbsp;&nbsp;
+
